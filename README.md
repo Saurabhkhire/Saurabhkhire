@@ -43,12 +43,12 @@ Artificial Intelligence, Machine Learning, and recently, Quantum Computing
 
 ## 📱 Projects I'm Proud Of
 
-### 🏏 [ScoreIt – Cricket Scorer](https://github.com/Saurabhkhire/Saurabhkhire/tree/main/ScoreIt)
+### 🏏 [ScoreIt – Cricket Scorer](https://github.com/Saurabhkhire/VirtualAuctionClient/tree/main)
 App store link: https://play.google.com/store/apps/details?id=com.scoreappcricketapplication.scoreappcricket&hl=en_US
 Android app for real-time cricket scoring, statistics, and tournament tracking  
 Tech: Java, SQLite, Firebase
 
-### 🧢 [Virtual Cricket Auction](https://github.com/Saurabhkhire/Saurabhkhire/tree/main/VirtualCricketAuction)
+### 🧢 [Virtual Cricket Auction](https://github.com/Saurabhkhire/ScoreAppCricket/tree/main)
 App store link: https://play.google.com/store/apps/details?id=com.auction.virtualauctionclient&hl=en_US&pli=1
 Multiplayer fantasy auction platform using Android frontend and Windows server backend  
 Tech: Java, Android, MySQL
