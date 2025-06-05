@@ -37,7 +37,7 @@ Artificial Intelligence, Machine Learning, and recently, Quantum Computing
 - **MD4KS:** Built an accident detection system using sensors and GPS in Python  
 - **Tech Mahindra:** Developed a multiplayer tank game in Unity3D  
 - **Forbes Marshall:** Worked on PostgreSQL and product testing for industrial devices  
-- **Mavens Technology & MIT-ADT Projects:** Embedded systems simulation and testing
+- **Mavens Technology:** Embedded systems simulation and testing
 
 ---
 
